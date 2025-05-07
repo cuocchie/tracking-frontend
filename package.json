@@ -2,7 +2,7 @@
   "name": "tracking-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/cuocchie/tracking-frontend",
+  "homepage": "https://cuocchie.github.io/tracking-frontend/",
   "dependencies": {
     "@react-three/drei": "^10.0.7",
     "@react-three/fiber": "^9.1.2",
