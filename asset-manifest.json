@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tracking-frontend/static/css/main.9793f25a.css",
+    "main.js": "/tracking-frontend/static/js/main.b727ac7e.js",
+    "index.html": "/tracking-frontend/index.html",
+    "main.9793f25a.css.map": "/tracking-frontend/static/css/main.9793f25a.css.map",
+    "main.b727ac7e.js.map": "/tracking-frontend/static/js/main.b727ac7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9793f25a.css",
+    "static/js/main.b727ac7e.js"
+  ]
+}
